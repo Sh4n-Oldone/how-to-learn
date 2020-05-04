@@ -5,8 +5,7 @@
 @import url(./__link/header__link.css);
 @import url(./__main-illustration/header__main-illustration.css);
 @import url(./__square-pic/header__square-pic.css);
-@import url(./__square-pic/_rotation/header__square-pic_rotation.css);
-@import url(../animations/rotation.css);
+@import url(../rotation/rotation.css);
 
 .header {
   display: flex;

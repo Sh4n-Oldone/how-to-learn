@@ -1,4 +1,7 @@
-@import url(../../animations/ghostly.css);
+@keyframes ghostly {
+  from {opacity: 100%;}
+  to {opacity: 75%;}
+}
 
 .feynman__link {
   color: black;
@@ -11,3 +14,6 @@
   text-decoration: none;
 }
 
+.feynman__link:hover {
+  animation: ghostly 0.5s 1 linear forwards;
+}

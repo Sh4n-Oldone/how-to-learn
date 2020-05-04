@@ -1,6 +1,13 @@
-@import url(../../animations/ghostly.css);
+@keyframes ghostly {
+  from {opacity: 100%;}
+  to {opacity: 75%;}
+}
 
 .footer__link {
   color: white;
   text-decoration: none;
+}
+
+.footer__link:hover {
+  animation: ghostly 0.5s 1 linear forwards;
 }

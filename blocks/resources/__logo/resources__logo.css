@@ -1,8 +1,16 @@
-@import url(../../../animations/ghostly.css);
+@keyframes ghostly {
+  from {opacity: 100%;}
+  to {opacity: 75%;}
+}
+
 .resources__logo {
   display: flex;
   justify-content: center;
   width: 270px;
   height: 38px;
   object-fit: contain;
+}
+
+.resources__logo:hover {
+  animation: ghostly 0.5s 1 linear forwards;
 }

@@ -1,10 +1,10 @@
-.video__iframes_iframe {
+.video__iframe {
   display: flex;
   width: 515px;
   height: 316px;
   border: none;
 }
 
-.video__iframes_iframe:first-of-type {
+.video__iframe:first-of-type {
   margin-right: 20px;
 }

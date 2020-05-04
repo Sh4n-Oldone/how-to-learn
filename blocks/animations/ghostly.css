@@ -1,8 +1,0 @@
-@keyframes ghostly {
-  from {opacity: 100%;}
-  to {opacity: 75%;}
-}
-
-.ghostly:hover {
-  animation: ghostly 0.5s 1 linear forwards;
-}

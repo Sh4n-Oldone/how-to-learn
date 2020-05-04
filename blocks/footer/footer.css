@@ -1,17 +1,12 @@
-@import url(../../logo/logo.css);
+@import url(../logo/logo.css);
 @import url(../logo/_place/logo_place_footer.css);
 @import url(../footer/__columns/footer__columns.css);
 @import url(../footer/__column/footer__column.css);
-@import url(../footer/__column/_content_info/footer__column_content_info.css);
-@import url(../footer/__column/_content_social/footer__column_content_social.css);
 @import url(../footer/__author/footer__author.css);
 @import url(../footer/__column-heading/footer__column-heading.css);
 @import url(../footer/__column-links/footer__column-links.css);
-@import url(../footer/__column/_content_copyright/footer__column_content_copyright.css);
 @import url(../footer/__social-icon/footer__social-icon.css);
 @import url(../footer/__link/footer__link.css);
-@import url(../footer/__link/_logo/footer__link_logo.css);
-
 
 .footer {
   display: flex;
