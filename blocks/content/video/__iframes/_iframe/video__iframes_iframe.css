@@ -1,9 +1,0 @@
-.video__iframes_iframe {
-  display: flex;
-  width: 515px;
-  height: 316px;
-}
-
-.video__iframes_iframe:first-of-type {
-  margin-right: 20px;
-}

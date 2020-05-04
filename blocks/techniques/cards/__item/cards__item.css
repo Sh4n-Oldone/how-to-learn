@@ -1,0 +1,16 @@
+@import url(../__image/cards__image.css);
+@import url(../__title/cards__title.css);
+@import url(../__description/cards__description.css);
+
+
+.cards__item {
+  display: flex;
+  flex-direction: column;
+  padding-top: 60px;
+  width: 240px;
+  margin-left: 100px;
+}
+
+.cards__item:nth-of-type(3n+1) {
+  margin-left: 0;
+}

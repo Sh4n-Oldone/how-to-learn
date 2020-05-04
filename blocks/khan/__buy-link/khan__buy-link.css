@@ -1,0 +1,11 @@
+@import url(../../../animations/ghostly.css);
+
+.khan__buy-link {
+  height: 42px;
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #2f80ed;
+}
+
