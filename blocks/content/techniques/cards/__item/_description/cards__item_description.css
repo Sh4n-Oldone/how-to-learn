@@ -1,0 +1,9 @@
+.cards__item_description {
+  display: flex;
+  margin: 16px 0 0;
+  line-height: 23px;
+  font-size: 18px;
+  font-weight: normal;
+  justify-content: center;
+  text-align: center;
+}

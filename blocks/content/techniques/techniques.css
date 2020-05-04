@@ -1,0 +1,13 @@
+@import url(../../section-title/section-title.css);
+@import url(../../section-subtitle/section-subtitle.css);
+@import url(./cards/cards.css);
+@import url(../../section-title/_theme/section-title_theme_techniques.css);
+@import url(../../section-subtitle/_theme/section-subtitle_theme_techniques.css);
+
+.techniques {
+  display: flex;
+  width: 80%;
+  margin: 100px auto 0;
+  flex-direction: column;
+  justify-content: center;
+}

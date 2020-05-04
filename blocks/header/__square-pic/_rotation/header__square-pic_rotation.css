@@ -1,0 +1,5 @@
+@import url(../../../animations/rotation.css);
+
+.header__square-pic {
+  animation: rotation 20s infinite linear;
+}

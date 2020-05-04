@@ -1,0 +1,14 @@
+@import url(./_author/khan__container_author.css);
+@import url(./_title/khan__container_title.css);
+@import url(./_quote/khan__container_quote.css);
+@import url(./_quote-author/khan__container_quote-author.css);
+@import url(./_quote-author-subline/khan__container_quote-author-subline.css);
+@import url(./_book-container/khan__container_book-container.css);
+
+.khan__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 80%;
+  margin: 0 auto;
+}

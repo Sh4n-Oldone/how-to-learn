@@ -1,0 +1,8 @@
+@import url(../../two-columns/two-columns.css);
+
+.description {
+  display: flex;
+  margin: 100px auto 0;
+  justify-content: center;
+}
+
